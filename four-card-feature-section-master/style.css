@@ -1,0 +1,36 @@
+@import url("https://fonts.google.com/specimen/Poppins");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+}
+body {
+  font-size: 15px;
+  background-color: rgb(250, 250, 250);
+}
+
+.heading-1 {
+  font-weight: 100;
+  text-align: center;
+  margin-top: 50px;
+  padding: 2px;
+  color: rgb(110, 111, 115);
+}
+
+.heading-2 {
+  font-weight: 600;
+  text-align: center;
+  padding: 2px;
+}
+
+p {
+  font-weight: 200;
+  color: rgb(177, 177, 182);
+}
+
+.description {
+  margin: auto 25%;
+  text-align: center;
+  padding: 15px;
+}
